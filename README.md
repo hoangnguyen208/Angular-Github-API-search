@@ -26,3 +26,7 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+## Content
+
+The app use Github API to search any individual's username on Github page. The result shows details of their profiles on Github page as well as their Repositories. The completed product looks like the image in the screenshot folder. 
